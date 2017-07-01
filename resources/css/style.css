@@ -1,0 +1,30 @@
+body {
+    font-family: Verdana;
+    text-align: center;
+    background-color: black;
+    color: white;
+    }
+
+.discover {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+.bezudi {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.safar {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.jaye {
+  font-size: 21px;
+  color: gray;
+}
+
+#copyright {
+  text-align: right;
+}
